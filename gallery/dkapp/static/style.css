@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: lightblue;
+    font-family: Arial;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+.box {
+    margin-top: 40px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    border: 2px solid black;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
